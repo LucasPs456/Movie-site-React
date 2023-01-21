@@ -1,70 +1,37 @@
-# Getting Started with Create React App
+# **KinoStation 🍿🎬**
+# ![](src/banner.png)
+**KinoStation** is a movie search application that allows users to search for movies by title. The app is built using React, a JavaScript library for building user interfaces, and it makes use of the **Open Movie Database** API to search for movies. The Open Movie Database API is a free, public API that provides movie information such as title, year, actors, and plot.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+With its simple and intuitive design, KinoStation makes it easy for users to find the movies they are looking for. The app features a search bar where users can enter a movie title, and a search icon that when clicked on, calls the API and retrieves a list of movies that match the search term. The search results are displayed in a list and when a user clicks on a movie, detailed information about the movie such as plot, actors, and rating, is displayed.
 
-## Available Scripts
+The app also features a sleek and modern user interface, that makes it easy for users to navigate and find the information they need. The app was built using **React hooks**, which allows developers to use state and lifecycle methods in functional components. Additionally, the app is designed to be **fully responsive** on mobile devices, ensuring that users can easily search for movies and view detailed information on **smaller screens**.
 
-In the project directory, you can run:
+# ![](src/bannerMobile.png)
 
-### `npm start`
+## **Features 🔎**
+* Search for movies by title 🔍
+* Display search results in a list 📜
+* Display detailed information about each movie when clicked on 🎥
+* Sleek and modern user interface 👌
+# Getting started 🚀
+ You can try the app by visiting the following [Project Link](). The app is hosted on Github and can be accessed and run by anyone with an internet connection.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# How to use 📚
+1. Type a movie title in the search bar.
+2. Click on the search icon or press enter.
+3. The app will display a list of movies that match the search term.
+4. Click on a movie to see more information about it.
 
-### `npm test`
+## 🛠 Technologies
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+- React.js
+- Javascript
+- Git and Github
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Contact
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+lucasps465@outlook.com
+# Note ⚠️
+This application uses **Open Movie Database API**, you will need to provide **your own API key** in the .env file to make the search function work. The API has a **usage limit**, so it's important to use it wisely and respect their terms of service.
