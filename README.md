@@ -14,7 +14,7 @@ The app also features a sleek and modern user interface, that makes it easy for 
 * Display detailed information about each movie when clicked on 🎥
 * Sleek and modern user interface 👌
 # Getting started 🚀
- You can try the app by visiting the following [Project Link](). The app is hosted on Github and can be accessed and run by anyone with an internet connection.
+ You can try the app by visiting the following [Project Link](https://kino-station.netlify.app). The app is hosted on Github and can be accessed and run by anyone with an internet connection.
 
 
 # How to use 📚
